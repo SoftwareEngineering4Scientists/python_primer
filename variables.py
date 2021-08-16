@@ -5,6 +5,6 @@ print(a + b)
 
 print(type(b))
 
-b = “7”
+b = "7"
 print(b)
 print(type(b))
