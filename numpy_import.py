@@ -1,4 +1,4 @@
-# import command can also use 'as' to provide an abbreviation for the package
+# import command can use 'as' to provide an abbreviation for the package
 import numpy as np
 
 rand_integers = np.random.randint(0, 10, size=20)
